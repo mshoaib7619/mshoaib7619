@@ -39,14 +39,21 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge\&logo=Canva\&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-%23D83B01.svg?style=for-the-badge\&logo=microsoft-office\&logoColor=white)
 
-# 📊 GitHub Stats:
-
+### 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shoaib7619&show_icons=true&locale=en&layout=compact" alt="shoaib7619" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shoaib7619&show_icons=true&locale=en" alt="shoaib7619" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shoaib7619&" alt="shoaib7619" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shoaib7619" alt="shoaib7619" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shoaib7619&label=Profile%20views&color=0e75b6&style=flat" alt="shoaib7619" /> </p>
+<p align="left">
+  ![Open PRs](https://img.shields.io/github/issues-pr/shoaib7619?color=green)
+  ![Closed PRs](https://img.shields.io/github/issues-pr-closed/shoaib7619?color=red)
+</p>
+
+<p align="left">
+  ![Profile Views](https://komarev.com/ghpvc/?username=shoaib7619&label=Profile%20views&color=0e75b6&style=flat)
+</p>
+
 
 
