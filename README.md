@@ -42,10 +42,18 @@
 
 
 # 📊 GitHub Stats:
+
+![Pull Requests](https://img.shields.io/badge/Pull%20Requests-XX-blue?logo=git&style=for-the-badge)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=shoaib7619&column=7&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shoaib7619&show_icons=true&locale=en&layout=compact" alt="shoaib7619" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shoaib7619&show_icons=true&locale=en" alt="shoaib7619" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shoaib7619&show_icons=true&count_private=true&include_all_commits=true&locale=en" alt="shoaib7619" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shoaib7619&" alt="shoaib7619" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shoaib7619&label=Profile%20views&color=0e75b6&style=flat" alt="shoaib7619" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=shoaib7619&label=Profile%20views&color=0e75b6&style=flat" alt="shoaib7619" />
+</p>
+
