@@ -52,10 +52,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaib7619&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=shoaib7619&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
-
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shoaib7619&theme=default" alt="GitHub Streak" />
 </p>
