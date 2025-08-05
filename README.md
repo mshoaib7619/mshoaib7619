@@ -1,11 +1,11 @@
 # 💫 About Me
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&multiline=true&random=false&width=600&height=90&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Shoaib+;I+am+an+inquisitive+and+passionate+learner+%F0%9F%92%A1;Currently%2C+I+am+working+on+full-stack+development" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&multiline=true&random=false&width=600&height=90&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Shoaib+;Passionate+MERN+Stack+Developer+%F0%9F%92%BB;CMS+%7C+APIs+%7C+Offline+Apps+%7C+AWS+Deployments" alt="Typing SVG">
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&multiline=true&random=false&width=600&height=90&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Shoaib+;Passionate+MERN+Stack+Developer+%F0%9F%92%BB;CMS+%7C+APIs+%7C+Offline+Apps+%7C+AWS+Deployments" alt="Typing SVG">
+  <img src="https://media.licdn.com/dms/image/C4E12AQErJsYayDutVg/article-cover_image-shrink_600_2000/0/1651835064260?e=2147483647&v=beta&t=PD7NGwk2Vh3xOA9gxf8uUsLsAt-Bvak1Hm3ruoGSxuY" alt="Coding Banner" width="100%">
 </div>
 
 
