@@ -1,7 +1,7 @@
 # 💫 About Me
 
 <div align="center">
-  <img src="https://i.imgur.com/LU7YzZL.gif" alt="Professional Developer Banner" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&multiline=true&random=false&width=600&height=90&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Shoaib+;I+am+an+inquisitive+and+passionate+learner+%F0%9F%92%A1;Currently%2C+I+am+working+on+full-stack+development" alt="Typing SVG">
 </div>
 
 <div align="center">
