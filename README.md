@@ -1,11 +1,11 @@
 # 💫 About Me
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&multiline=true&random=false&width=600&height=90&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Shoaib+;I+am+an+inquisitive+and+passionate+learner+%F0%9F%92%A1;Currently%2C+I+am+working+on+full-stack+development" alt="Typing SVG">
+  <img src="https://i.imgur.com/LU7YzZL.gif" alt="Professional Developer Banner" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/C4E12AQErJsYayDutVg/article-cover_image-shrink_600_2000/0/1651835064260?e=2147483647&v=beta&t=PD7NGwk2Vh3xOA9gxf8uUsLsAt-Bvak1Hm3ruoGSxuY" alt="Coding Banner" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&multiline=true&random=false&width=600&height=90&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Shoaib+;Passionate+MERN+Stack+Developer+%F0%9F%92%BB;CMS+%7C+APIs+%7C+Offline+Apps+%7C+AWS+Deployments" alt="Typing SVG">
 </div>
 
 ---
@@ -13,19 +13,22 @@
 ## 👨‍💻 About Me
 
 - 🔭 I’m currently working on **MERN Stack projects**
-- 💬 Ask me about **HTML | CSS | Bootstrap | Tailwind | JavaScript | MERN **
-- 🛠️ Love creating **CMS and scalable backend APIs**
+- 💬 Ask me about **HTML | CSS | Bootstrap | Tailwind | JavaScript | MERN**
+- 🛠️ Passionate about building **CMS platforms** and **scalable backend APIs**
+- ☁️ Skilled in **AWS (EC2, S3, Route 53)** for deployment & hosting
 - 🌍 Based in **Jalalpur Pirwala, Pakistan**
-- 📫 How to reach me: [shoaibkareem753@gmail.com](mailto:shoaibkareem753@gmail.com)
+- 📫 Reach me at: [shoaibkareem753@gmail.com](mailto:shoaibkareem753@gmail.com)
 - 🌐 Portfolio: [personal-portfolio-teal-five.vercel.app](https://personal-portfolio-teal-five.vercel.app)
 
 ---
 
 ## 🌐 Socials
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-shoaib-0837b922a)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/profile.php?id=100010405754427&_rdc=1&_rdr)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shoaib_7619/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-shoaib-0837b922a)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shoaibkareem753@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923176384753)
 
 ---
 
@@ -54,15 +57,11 @@
 
 ---
 
-## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-shoaib-0837b922a)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/profile.php?id=100010405754427&_rdc=1&_rdr)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shoaib_7619/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shoaibkareem753@gmail.com)
----
-
 ## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=shoaib7619&show_icons=true&theme=default" alt="GitHub Stats" />
+</p>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaib7619&layout=compact&theme=default" alt="Top Languages" />
