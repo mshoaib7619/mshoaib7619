@@ -5,8 +5,9 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&multiline=true&random=false&width=600&height=90&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Shoaib+;Passionate+MERN+Stack+Developer+%F0%9F%92%BB;CMS+%7C+APIs+%7C+Offline+Apps+%7C+AWS+Deployments" alt="Typing SVG">
+  <img src="https://raw.githubusercontent.com/shoaib7619/shoaib7619/main/shoaib.jpg" alt="Muhammad Shoaib" width="160" height="160" style="border-radius: 50%;" />
 </div>
+
 
 ---
 
