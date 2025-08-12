@@ -29,7 +29,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/profile.php?id=100010405754427&_rdc=1&_rdr)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shoaib_7619/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shoaibkareem753@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923176384753)
+[![Chat with Muhammad Shoaib](https://img.shields.io/badge/Chat%20with%20Muhammad%20Shoaib-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923176384753)
 
 ---
 
