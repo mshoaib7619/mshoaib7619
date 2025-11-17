@@ -58,12 +58,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shoaib7619&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
-
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaib7619&layout=compact&theme=default" alt="Top Languages" />
 </p>
