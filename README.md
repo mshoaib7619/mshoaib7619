@@ -8,12 +8,6 @@ Currently working as a **Backend Developer at E-Mareez Care**, contributing to e
 
 ---
 
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mshoaib7619&show_icons=true&theme=tokyonight)
-
----
-
 # 🏥 Production Experience
 
 ## Backend Developer — E-Mareez Healthcare Management System
