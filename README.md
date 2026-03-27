@@ -1,10 +1,16 @@
 # 👋 Hi, I'm Muhammad Shoaib
 
-### Backend Engineer | Node.js | PostgreSQL | REST APIs | Healthcare EMR/EHR Systems | AWS Deployment
+### Backend Engineer | Node.js | PostgreSQL | REST API Architecture | Healthcare EMR/EHR Systems | AWS Deployment
 
-Backend-focused MERN Stack Developer specializing in building scalable REST APIs and production-level healthcare management systems.
+Backend-focused MERN Stack Developer specializing in building scalable REST APIs and production-level healthcare management systems used by clinics, hospitals, laboratories, and pharmacies.
 
-Currently working as a **Backend Developer at E-Mareez Care**, contributing to enterprise EMR/EHR platforms used by clinics, hospitals, laboratories, and pharmacies.
+Currently working as a **Backend Developer at E-Mareez Care**, contributing to enterprise EMR/EHR healthcare platforms supporting real-world clinical workflows.
+
+---
+
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mshoaib7619&show_icons=true&theme=tokyonight)
 
 ---
 
@@ -16,26 +22,30 @@ Currently working as a **Backend Developer at E-Mareez Care**, contributing to e
 
 Contributing to a production-scale healthcare platform supporting:
 
-- Clinics
-- Hospitals
-- Laboratories
-- Pharmacies
+• Clinics  
+• Hospitals  
+• Laboratories  
+• Pharmacies  
 
 Key responsibilities:
 
-- Designing scalable backend architectures using Node.js & Express.js
-- PostgreSQL schema design and query optimization
-- Implementing secure authentication & role-based authorization systems
-- Developing appointment and patient workflow APIs
-- Building reminder automation using cron-based background services
-- Supporting performance optimization in production environments
-- Deploying backend services using AWS (EC2, S3, Route53)
+• Designing scalable backend architectures using Node.js & Express.js  
+• PostgreSQL schema design and query optimization  
+• Implementing secure authentication & role-based authorization systems  
+• Developing appointment and patient workflow APIs  
+• Building reminder automation using cron-based background services  
+• Supporting performance optimization in production environments  
+• Deploying backend services using AWS (EC2, S3, Route53)
+
+Tech stack:
+
+Node.js | Express.js | PostgreSQL | TypeScript | REST APIs | AWS
 
 ---
 
 # 🚀 Featured Backend Work
 
-### Reminder Automation System
+## Reminder Automation System
 
 Implemented backend reminder scheduling workflows using Node.js cron jobs and PostgreSQL triggers supporting production healthcare notifications.
 
@@ -45,18 +55,27 @@ Node.js | PostgreSQL | REST APIs | Cron Jobs | AWS
 
 ---
 
+# 🔍 Current Focus
+
+• Scalable backend REST API architecture  
+• PostgreSQL performance optimization  
+• Healthcare workflow automation systems  
+• Production-ready Node.js services  
+
+---
+
 # 👨‍💻 About Me
 
-I specialize in backend development using the MERN stack with strong experience in designing scalable APIs and database-driven systems.
+I specialize in backend development using Node.js and PostgreSQL with strong experience designing scalable APIs and database-driven systems.
 
 Core strengths include:
 
-- Backend architecture design using Node.js
-- PostgreSQL schema modeling & optimization
-- REST API development for healthcare workflows
-- Role-based authentication & authorization systems
-- Automation using scheduled background services
-- Production deployment using AWS
+• Backend architecture design using Node.js  
+• PostgreSQL schema modeling & optimization  
+• REST API development for healthcare workflows  
+• Role-based authentication & authorization systems  
+• Automation using scheduled background services  
+• Production deployment using AWS  
 
 Currently building production-scale healthcare backend systems supporting real-world clinical workflows across multiple healthcare environments.
 
@@ -99,13 +118,13 @@ https://personal-portfolio-teal-five.vercel.app
 https://www.linkedin.com/in/muhammad-shoaib-0837b922a
 
 📧 Email  
-mailto:shoaibkareem753@gmail.com
+shoaibkareem753@gmail.com
 
 ---
 
-# 📊 GitHub Activity
+# 📈 Contribution Activity
 
-![Profile Views](https://komarev.com/ghpvc/?username=mshoaib7619&label=Profile%20views&color=0e75b6&style=flat)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mshoaib7619&theme=tokyonight)
 
 ---
 
