@@ -1,68 +1,114 @@
-# 💫 About Me
+# 👋 Hi, I'm Muhammad Shoaib
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&multiline=true&random=false&width=600&height=90&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Shoaib+;Passionate+MERN+Stack+Developer+%F0%9F%92%BB;CMS+%7C+APIs+%7C+Offline+Apps+%7C+AWS+Deployments" alt="Typing SVG">
-</div>
+### Backend Engineer | Node.js | PostgreSQL | REST APIs | Healthcare EMR/EHR Systems | AWS Deployment
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Coding Banner" width="100%">
-</div>
+Backend-focused MERN Stack Developer specializing in building scalable REST APIs and production-level healthcare management systems.
 
+Currently working as a **Backend Developer at E-Mareez Care**, contributing to enterprise EMR/EHR platforms used by clinics, hospitals, laboratories, and pharmacies.
 
 ---
 
-## 👨‍💻 About Me
+# 🏥 Production Experience
 
-- 🔭 I’m currently working on **MERN Stack projects**
-- 💬 Ask me about **HTML | CSS | Bootstrap | Tailwind | JavaScript | MERN**
-- 🛠️ Passionate about building **CMS platforms** and **scalable backend APIs**
-- ☁️ Skilled in **AWS (EC2, S3, Route 53)** for deployment & hosting
-- 🌍 Based in **Jalalpur Pirwala, Pakistan**
-- 📫 Reach me at: [shoaibkareem753@gmail.com](mailto:shoaibkareem753@gmail.com)
-- 🌐 Portfolio: [personal-portfolio-teal-five.vercel.app](https://personal-portfolio-teal-five.vercel.app)
+## Backend Developer — E-Mareez Healthcare Management System
+
+🔗 https://e-mareez.com
+
+Contributing to a production-scale healthcare platform supporting:
+
+- Clinics
+- Hospitals
+- Laboratories
+- Pharmacies
+
+Key responsibilities:
+
+- Designing scalable backend architectures using Node.js & Express.js
+- PostgreSQL schema design and query optimization
+- Implementing secure authentication & role-based authorization systems
+- Developing appointment and patient workflow APIs
+- Building reminder automation using cron-based background services
+- Supporting performance optimization in production environments
+- Deploying backend services using AWS (EC2, S3, Route53)
 
 ---
 
-## 🌐 Socials
+# 🚀 Featured Backend Work
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-shoaib-0837b922a)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/profile.php?id=100010405754427&_rdc=1&_rdr)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shoaib_7619/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shoaibkareem753@gmail.com)
-[![Chat with Muhammad Shoaib](https://img.shields.io/badge/Chat%20with%20Muhammad%20Shoaib-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923176384753)
+### Reminder Automation System
+
+Implemented backend reminder scheduling workflows using Node.js cron jobs and PostgreSQL triggers supporting production healthcare notifications.
+
+Tech stack:
+
+Node.js | PostgreSQL | REST APIs | Cron Jobs | AWS
 
 ---
 
-## 💻 Tech Stack
+# 👨‍💻 About Me
 
-**Frontend:**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+I specialize in backend development using the MERN stack with strong experience in designing scalable APIs and database-driven systems.
 
-**Backend:**
+Core strengths include:
+
+- Backend architecture design using Node.js
+- PostgreSQL schema modeling & optimization
+- REST API development for healthcare workflows
+- Role-based authentication & authorization systems
+- Automation using scheduled background services
+- Production deployment using AWS
+
+Currently building production-scale healthcare backend systems supporting real-world clinical workflows across multiple healthcare environments.
+
+---
+
+# 💻 Tech Stack
+
+## Backend
+
 ![Node.js](https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404D59.svg?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Databases:**
+## Frontend
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+## Databases
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-**DevOps / Tools:**
+## DevOps / Tools
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
+# 🌐 Portfolio & Contact
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=shoaib7619&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+🌍 Portfolio  
+https://personal-portfolio-teal-five.vercel.app
+
+💼 LinkedIn  
+https://www.linkedin.com/in/muhammad-shoaib-0837b922a
+
+📧 Email  
+mailto:shoaibkareem753@gmail.com
 
 ---
 
-> ⚡ Pro Tip: Keep pushing code, learning daily, and contributing to open source whenever you can!
+# 📊 GitHub Activity
+
+![Profile Views](https://komarev.com/ghpvc/?username=mshoaib7619&label=Profile%20views&color=0e75b6&style=flat)
+
+---
+
+# ⚡ Engineering Focus
+
+Building scalable backend systems using Node.js and PostgreSQL with a focus on healthcare workflow automation and production-grade REST API architecture.
